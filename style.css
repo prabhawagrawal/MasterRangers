@@ -1,0 +1,22 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    background-color: #fff;
+    border-width:10px; 
+    border-style:ridge;
+}
+
+#title{
+    font-family: 'Rampart One', cursive;
+    color: white;
+}
+
+#text{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+}
